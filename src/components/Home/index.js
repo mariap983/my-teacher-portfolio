@@ -8,8 +8,8 @@ import './index.scss'
 const Home = () => {
     const [letterClass, setLetterClass ] = useState('text-animate')
     
-    const nameArray = ['a', 'r', 'i', 'a']
-    const jobArray = ['s', 'o', 'f', 't', 'w', 'a', 'r', 'e', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+    const nameArray = ['а', 'р', 'и', 'я', ',']
+    const jobArray = ['в', 'а', 'ш', 'и', 'я', 'т', ' ', 'I', 'T', ' ', 'у', 'ч', 'и', 'т', 'е', 'л', '.']
 
     useEffect(() => {
         let timeoutId = setTimeout(() => {
@@ -26,11 +26,21 @@ const Home = () => {
             <div className="container home-page">
                 <div className="text-zone">
                     <h1>
-                        <span className={letterClass}>H</span>
-                        <span className={`${letterClass} _12`}>i,</span>
+                        <span className={letterClass}>З</span>
+                        <span className={letterClass}>д</span>
+                        <span className={letterClass}>р</span>
+                        <span className={letterClass}>а</span>
+                        <span className={letterClass}>в</span>
+                        <span className={letterClass}>е</span>
+                        <span className={letterClass}>й</span>
+                        <span className={`${letterClass} _12`}>!</span>
                         <br />
-                        <span className={`${letterClass} _13`}>I</span>
-                        <span className={`${letterClass} _14`}>'m</span>
+                        <span className={`${letterClass} _13`}>А</span>
+                        <span className={`${letterClass} _14`}>з</span>
+                        <span className={`${letterClass} _15`}></span>
+                        <span className={`${letterClass} _16`}>с</span>
+                        <span className={`${letterClass} _17`}>ъ</span>
+                        <span className={`${letterClass} _18`}>м</span>
                         <img 
                             src={LogoTitle_M} 
                             alt="developer" 
@@ -44,12 +54,12 @@ const Home = () => {
                         <AnimatedLetters 
                             letterClass={letterClass}
                             strArray={jobArray}
-                            idx={22}
+                            idx={20}
                         />
                     </h1>
-                    <h2>Front-end Developer and UX/UI Designer</h2>
+                    <h2>Софтуерен програмист | UX/UI дизайнер | Илюстратор</h2>
                     <Link to="/contact" className="flat-button">
-                        CONTACT ME
+                        СВЪРЖЕТЕ СЕ С МЕН
                     </Link>
                 </div>
             </div>

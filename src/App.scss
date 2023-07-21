@@ -26,6 +26,13 @@ $primary-color: #fb839e;
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Montserrat Alternates';
+  src: url('./assets/fonts/MontserratAlternates-Medium.ttf') format('ttf');
+  font-weight: medium;
+  font-style: medium;
+}
+
 input,
 textarea {
   font-family: 'Helvetica Neue', sans-serif;

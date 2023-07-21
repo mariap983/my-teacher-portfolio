@@ -59,8 +59,9 @@
 
             &:after {
                 content: '';
-                font-size: 9px;
-                letter-spacing: 2px;
+                font-size: 8.5px;
+                letter-spacing: 0.9px;
+                font-weight: 600;
                 position: absolute;
                 bottom: 0;
                 display: block;
@@ -72,26 +73,26 @@
 
             &:first-child{
                 &::after {
-                    content: 'HOME';
+                    content: 'НАЧАЛО';
                 }
             }
         }
 
         a.about-link {
             &:after {
-                content: 'ABOUT';
+                content: 'ЗА МЕН';
             }
         }
 
         a.contact-link {
             &:after {
-                content: 'CONTACT';
+                content: 'КОНТАКТИ';
             }
         }
 
         a.portfolio-link {
             &:after {
-                content: 'MY WORK';
+                content: 'ПОРТФОЛИО';
             }
         }
 

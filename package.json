@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mariap983.github.io/portfolio-website",
-  "name": "react-portfolio",
+  "homepage": "https://github.com/mariap983/portfolio-teacher.git",
+  "name": "portfolio-teacher",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -49,6 +49,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^5.0.0"
   }
 }

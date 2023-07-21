@@ -44,9 +44,9 @@
     
        h1 {
         font-size: 53px;
-        font-family: 'Coolvetica';
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         color: #fb839e;
-        font-weight: 400;
+        font-weight: 800;
         margin-top: 0;
         position: relative;
         margin-bottom: 40px;
@@ -56,6 +56,7 @@
           content: '<h1>';
           font-family: 'La Belle Aurore';
           font-size: 18px;
+          font-weight: 100 !important;
           position: absolute;
           margin-top: -10px;
           left: -10px;
@@ -67,6 +68,7 @@
             content: '<h1/>';
             font-family: 'La Belle Aurore';
             font-size: 18px;
+            font-weight: 100 !important;
             line-height: 18px;
             position: absolute;
             left: -30px;
@@ -81,6 +83,8 @@
         color: #fff;
         font-family: sans-serif;
         font-weight: 300;
+        letter-spacing: 0.36px;
+        text-align: justify;
         max-width: fit-content;
         animation: pulse 1s;
 

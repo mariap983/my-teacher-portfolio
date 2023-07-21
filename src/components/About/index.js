@@ -33,19 +33,16 @@ const About = () => {
                 <h1>
                     <AnimatedLetters
                       letterClass={letterClass} 
-                      strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
+                      strArray={['З', 'а', ' ', 'м', 'е', 'н']}
                       idx={15} 
                     />
                 </h1>
                 <p>
-                    I'm 23-year-old computer science graduate from Bulgaria.
-                    Growing up, I was always passionate about technology and 
-                    art - always interested in creating. Today, I am 
-                    enthusiastic about learning and improving my skills
-                    professionally. I value simple content structure, clean 
-                    design patterns, and thoughtful interactions. As well, I like 
-                    to design and code things from scratch, and enjoy bringing ideas to life 
-                    in the browser.
+                    Добре дошли в необятния свят на технологиите, където иновациите нямат граници. 
+                    В ролята си на ваш учител по Информационни технологии, имам удоволствието да споделя 
+                    с вас знанията и уменията си в тази област. Страстта ми към всичко, свързано с технологиите,
+                    е съчетанa с отдадеността ми да вдъхновявам и помагам на младите умове да се превърнат 
+                    в следващото поколение иноватори.
                 </p>
             </div>
 

@@ -37,7 +37,7 @@ const Portfolio = () => {
                                     <button
                                         className="btn"
                                         onClick={() => window.open(port.url)}
-                                    >View</button>
+                                    >Преглед</button>
                                 </div>
                             </div>
                         )
@@ -54,7 +54,7 @@ const Portfolio = () => {
                 <h1 className="page-title">
                     <AnimatedLetters
                         letterClass={letterClass}
-                        strArray={"Portfolio".split("")}
+                        strArray={"Портфолио".split("")}
                         idx={15}
                     />
                 </h1>
