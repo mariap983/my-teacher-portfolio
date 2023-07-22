@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/mariap983/portfolio-teacher.git",
-  "name": "portfolio-teacher",
+  "homepage": "https://github.com/mariap983/teacher-portfolio.git",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
