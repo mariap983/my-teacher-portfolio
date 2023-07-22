@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-teacher-portfolio.git/static/css/main.40a0afba.css",
+    "main.js": "/my-teacher-portfolio.git/static/js/main.635ad78f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/my-teacher-portfolio.git/static/js/787.a2cb61a6.chunk.js",
+    "static/media/MontserratAlternates-Medium.ttf": "/my-teacher-portfolio.git/static/media/MontserratAlternates-Medium.ae41054b33bf901739c8.ttf",
+    "static/media/helvetica-neu.ttf": "/my-teacher-portfolio.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/my-teacher-portfolio.git/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/my-teacher-portfolio.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-mp.png": "/my-teacher-portfolio.git/static/media/logo-mp.dd99c05ddc9ad1672b22.png",
+    "static/media/CoolveticaRg-Regular.woff": "/my-teacher-portfolio.git/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/logo_sub.png": "/my-teacher-portfolio.git/static/media/logo_sub.b3fa92a0febfbc5e1dea.png",
+    "static/media/logo-m.png": "/my-teacher-portfolio.git/static/media/logo-m.e19b2564be76583f3b38.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/my-teacher-portfolio.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/my-teacher-portfolio.git/index.html",
+    "main.40a0afba.css.map": "/my-teacher-portfolio.git/static/css/main.40a0afba.css.map",
+    "main.635ad78f.js.map": "/my-teacher-portfolio.git/static/js/main.635ad78f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/my-teacher-portfolio.git/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a0afba.css",
+    "static/js/main.635ad78f.js"
+  ]
+}
