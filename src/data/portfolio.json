@@ -1,0 +1,32 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.JPG",
+            "title": "GGWP",
+            "description": "Респонсив (Responsive) уеб сайт",
+            "url": "https://maria983.github.io/BulgarianNATURE/"
+
+        },
+        {
+            "cover": "/portfolio/1/two.jpg",
+            "title": "GGWP",
+            "description": "ReactJS апликация за изчисляване",
+            "url": "https://mariap983.github.io/react-calculator-app/"
+
+        },
+        {
+            "cover": "/portfolio/1/three.JPG",
+            "title": "GGWP",
+            "description": "React (Vite) уеб сайт",
+            "url": "https://mariap983.github.io/honorofkings-landing-page/"
+
+        },
+        {
+            "cover": "/portfolio/1/four.JPG",
+            "title": "GGWP",
+            "description": "React апликация за прогноза на времето",
+            "url": "https://mariap983.github.io/react-weather-app/"
+
+        }
+    ]
+}
